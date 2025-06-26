@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PeteTheGamer962real123
+- 👋 Hi, I’m UnderTheBed Studios
 - 👀 I’m interested in GaqmeDev
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently learning engine programming
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me use the email peteraymondiv@gmail.com
 - 😄 Pronouns: he/him
