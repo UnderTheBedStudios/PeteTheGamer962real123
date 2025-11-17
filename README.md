@@ -1,5 +1,5 @@
 - 👋 Hi, I’m UnderTheBed Studios
-- 👀 I’m interested in GaqmeDev
+- 👀 I’m interested in game dev
 - 🌱 I’m currently learning engine programming
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me use the email peteraymondiv@gmail.com
